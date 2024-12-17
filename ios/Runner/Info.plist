@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    // ...existing code...
+    <key>NSMicrophoneUsageDescription</key>
+    <string>This application needs access to the microphone to convert speech to text</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>This application needs the speech recognition permission to convert speech to text</string>
+    // ...rest of the file...
+</dict>
+</plist>
